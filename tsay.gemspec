@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Stuart Garner"]
   spec.email         = ["stuart@biddingforgood.com"]
   spec.summary       = %q{Generate random Mr. T phrase}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  # spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
